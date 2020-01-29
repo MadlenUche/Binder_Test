@@ -1,0 +1,19 @@
+Type: Compendium
+Package: Binder_Test
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: THis is a test to set up a binder repo
+License: What license it uses
+Depends: 
+    holepunch,
+    rmarkdown
+Remotes: 
+    karthik/holepunch
+Encoding: UTF-8
+LazyData: true

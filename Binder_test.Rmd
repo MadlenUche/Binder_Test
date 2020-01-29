@@ -1,0 +1,13 @@
+---
+title: "Binder_test"
+author: "Madlen Schranz"
+date: "29 1 2020"
+output: html_document
+---
+
+```{r}
+x <- 2
+y <- 3
+z <- x + y
+```
+
